@@ -42,4 +42,25 @@ header h1{
 
 #city_name_input{
     margin-top: 1%;
+    border: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 1% 2%;
+    outline: none;
+}
+
+#submit-btn{
+    padding: .5%;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #dd1919;
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+
+}
+
+#submit-btn:hover{
+    background-color: #fd0909;
+    cursor: pointer;
 }
